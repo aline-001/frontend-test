@@ -1,0 +1,34 @@
+body{
+    width:60vw;
+    height:100%;
+    background-color: blueviolet;
+    margin: 0 auto;
+    justify-content: center;
+}
+h1{
+    justify-content: center;
+    margin: 0 auto;
+}
+form{
+    margin:20px;
+    color:antiquewhite;
+    width: 60vw;
+    height:100%;
+}
+label{
+    display: block;
+    padding: 1rem 0;
+}
+button:hoover{
+background-color:indigo;
+color: whitesmoke;
+}
+button{
+    background-color: blue;
+    color:black;
+    padding-bottom: 5px;
+    border-radius: none;;
+}
+select{
+size: 20px;
+}
